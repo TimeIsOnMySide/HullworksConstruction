@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /cgi-bin/ # Example: if you have a cgi-bin directory you want to hide
-
-Sitemap: https://www.yourwebsite.com/sitemap.xml
